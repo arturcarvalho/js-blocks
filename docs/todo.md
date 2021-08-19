@@ -2,3 +2,5 @@
 
 - show 1 markdown block (monaco)
 - show 1 html block (from markdown)
+- add a play button
+- add a block of code to run
