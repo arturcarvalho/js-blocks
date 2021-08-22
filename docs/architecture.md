@@ -20,3 +20,12 @@ The site is mainly exploratory. Decisions are taken with little research and the
   2. It has magic links!
   3. It has built-in users on the DB that I can use to create teams (image private pages for a team)
   4. It's a replacement for firebase. Firebase is by far the simplest back-end stack I've used but I'm sick of their confusing stuff. Hard to understand pricing. Hard to understand what is slow. Hard to reuse what I know about SQL. Huge libraries to do the smallest of things. And closed source stuff from google tends to die.
+
+## Editors
+
+Issue: I'm using Monaco Editor for the markdown and code editor. But it looks like the Monaco Editor library is **600KB** heavy! Need to think about it.
+
+pro: Better experience (if you use VSCODE)
+pro: Less stuff to download and code if markdown and code editors are the same.
+con: Big library!
+con: People that don't know VSCODE don't notice a difference on the editing experience.
